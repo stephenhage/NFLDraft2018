@@ -6,17 +6,17 @@ Along the way, the analytics nerd in me wanted to see not just who were the best
 
 Here were a few notes:
 * In this year's draft, there was pretty strong confidence across the board in Sam Darnold, Josh Rosen, Bradley Chubb, and Saquon Barkley going in the top five
-** None have a 95% confidence interval bound outside the top ten
+    * None have a 95% confidence interval bound outside the top ten
 * Most people think the top QBs (Darnold, Rosen and Mayfield) are locks early, but draft projections for Allen and Jackson were all over the board
-** Allen has a 95% confidence interval ranging from 1 - 33; Jackson's is 5 - 47
+    * Allen has a 95% confidence interval ranging from 1 - 33; Jackson's is 5 - 47
 * It seems most people recognize the value of obvious talent, and of certain postitions (namely QB, DL, LB and DB), there is a huge disparity in value of TE and RB
-** Even a premium player like Saquon Barkley, who some say is clearly the top player in the draft, has someone projecting him to go at 19
-** Among those with the top variance in pick are TEs Hayden Hurst, Mike Gesicki, Dallas Goedert and Mark Andrews
-** Likewise are RBs Sony Michel, Nick Chubb and WRs DJ Chark, Donte Jackson, Michael Gallop, James Washington and Christian Kirk
+    * Even a premium player like Saquon Barkley, who some say is clearly the top player in the draft, has someone projecting him to go at 19
+    * Among those with the top variance in pick are TEs Hayden Hurst, Mike Gesicki, Dallas Goedert and Mark Andrews
+    * Likewise are RBs Sony Michel, Nick Chubb and WRs DJ Chark, Donte Jackson, Michael Gallop, James Washington and Christian Kirk
 * Some players really hurt their stock by doing drills at the Combine
-** Arden Key, Orlando Brown and Josh Sweat the most
+    * Arden Key, Orlando Brown and Josh Sweat the most
 * OL is hard to gauge
-** Everyone agrees how good Nelson is, but there's a wide discrepancy with how well people think Brian O'Neill, Kolton Miller, Mike McGlinchey, Frank Ragnow and Martinas Rankin will do in the NFL
+    * Everyone agrees how good Nelson is, but there's a wide discrepancy with how well people think Brian O'Neill, Kolton Miller, Mike McGlinchey, Frank Ragnow and Martinas Rankin will do in the NFL
 
 I included the 95% confidence interval so that, after the Draft, I'll have a baseline against which to write who were the surprise early picks, and who fell beyond expectations. Here is my attempt at projecting the first round, followed by the Big Board assembled from all the mock drafts:
 
