@@ -55,4 +55,6 @@ I included the 95% confidence interval so that, after the Draft, I'll have a bas
 | 31            | Patriots      | Billy Price          |
 | 32            | Eagles        | James Daniels        |
 
-(plots/2018Draft.pdf)
+
+
+![NFL Draft 2018 Big Board](/plots/2018draft.pdf)
